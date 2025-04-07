@@ -1,3 +1,3 @@
 # Military Lifespan Prediction
 
-## It suppose to help with preventing gossips and sharing fear from russiastan propaganda 
+## It is intended to help prevent the spread of rumors and fear fueled by propaganda from russiastan-related countries.
